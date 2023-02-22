@@ -1,0 +1,5 @@
+DATA_DIR = './temp'
+BATCH_SIZE = 32
+SAMPLE_SIZE = int(1*1e3)
+SEQUENCE_LEN = 128
+
